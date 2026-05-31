@@ -1,14 +1,26 @@
-# Personal Use License
+# PROJECT MANTLE - PERSONAL USE AND NON-DISTRIBUTION LICENSE
 
-Copyright (c) 2026 Ryan Bakker
+Copyright (c) 2026 Ryan Bakker. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for personal, non-commercial purposes only.
+This license governs the use, copying, and modification of the Project Mantle software (including the Zenith theme and all Mantle plugins). By downloading, installing, or using this software, you agree to be bound by the terms of this license.
 
-**Restrictions:**
+---
 
-1. **Non-Commercial Use:** You may not use the Software for any commercial purpose, including but not limited to, using the Software for business, professional, or for-profit activities.
-2. **No Redistribution:** You may not redistribute, sub-license, rent, lease, or sell the Software or any part thereof.
-3. **No Modification for Distribution:** You may modify the Software for your own personal use, but you may not distribute the modified version.
-4. **Attribution:** Any personal use of the Software must retain the above copyright notice and this permission notice.
+### 1. Grant of License
+Subject to the terms and restrictions below, you are hereby granted a free, non-exclusive, non-transferable, revocable license to:
+* Download and install the unmodified software on your personal devices.
+* Use the software for personal, non-commercial productivity and note-taking purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+---
+
+### 2. Restrictions
+
+* **No Commercial Use:** You may not use this software for any commercial or professional purpose, including but not limited to business operations, for-profit activities, or within commercial vault environments.
+* **No Redistribution:** You may not redistribute, share, host, re-upload, sub-license, rent, lease, sell, or distribute the software, its binaries, or its source files to any third party in any form.
+* **No Modification for Distribution:** You may modify the source code of the software solely for your own private, personal vault projects. However, you may not distribute, publish, or share any modified version (including "forks" and derivative works) for public use.
+* **Retain Copyright Notice:** All copies and private modifications of the software must retain the copyright notice above and this license document.
+
+---
+
+### 3. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
