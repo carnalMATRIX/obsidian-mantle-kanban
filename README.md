@@ -1,9 +1,5 @@
 # Mantle Kanban
 
-> [!NOTE]
-> **Status: Beta (v1.0.0)**  
-> Mantle Kanban is currently in public Beta. Feature updates and UI tweaks are regularly published.
-
 Mantle Kanban is a professional-grade visual Kanban board for Obsidian. It provides a highly interactive way to organize projects, track tasks across different stages, and manage notes with drag-and-drop simplicity.
 
 ---
@@ -25,7 +21,7 @@ Mantle Kanban is designed to integrate with the **Project Mantle** core ecosyste
 
 ## 📥 Installation
 
-### Method A: Via Obsidian Community Directory (Recommended once approved)
+### Method A: Via Obsidian Community Directory (Recommended)
 1. Go to **Settings** > **Community plugins** > **Browse**.
 2. Search for **Mantle Kanban**.
 3. Click **Install**, then click **Enable**.
