@@ -1,0 +1,10 @@
+{
+  "id": "mantle-kanban",
+  "name": "Mantle Kanban",
+  "description": "A professional Kanban board for organizing projects, tracking progress, and visual task management.",
+  "version": "1.0.0",
+  "author": "Ryan Bakker",
+  "authorUrl": "https://ryanbakker.vercel.app/",
+  "isDesktopOnly": true,
+  "minAppVersion": "1.12.7"
+}
